@@ -1,0 +1,26 @@
+{
+  "name": "odin_knight-travails",
+  "version": "1.0.0",
+  "description": "Odin Project's Knight Travails project. Creating a grid-based 'chessboard' for a knight piece to traverse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crisk-o/Odin_Knight-Travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Crisk-o/Odin_Knight-Travails/issues"
+  },
+  "homepage": "https://github.com/Crisk-o/Odin_Knight-Travails#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.6",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
+  }
+}
